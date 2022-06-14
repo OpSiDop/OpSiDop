@@ -1,4 +1,4 @@
-                                                              ### Hi there 👋 I am Sidhartha Raghaw
+                                                           ### Hi there 👋 I am Sidhartha Raghaw
 
 <!--
 **OpSiDop/OpSiDop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
