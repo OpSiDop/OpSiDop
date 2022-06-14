@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/aryanraj_2713/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="mailto:aryanraj2713@gmail.com">
+  <a href="mailto:sraghaw2002@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
   
