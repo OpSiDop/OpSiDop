@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/sidhartha-raghaw-10151b224/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
     </a><span>&nbsp;</span>
-  <a href="https://twitter.com/aryanraj2713">
+  <a href="https://twitter.com/RaghawSidhartha">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
   </a><span>&nbsp;</span>
   <a href="https://www.instagram.com/pssy_destroyer_sid/">
