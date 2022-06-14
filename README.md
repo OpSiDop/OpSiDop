@@ -11,7 +11,7 @@
   <a href="https://twitter.com/aryanraj2713">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="https://www.instagram.com/aryanraj_2713/">
+  <a href="https://www.instagram.com/pssy_destroyer_sid/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
   </a><span>&nbsp;</span>
   <a href="mailto:sraghaw2002@gmail.com">
