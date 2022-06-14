@@ -19,7 +19,7 @@
   </a><span>&nbsp;</span>
   <p align="center">
   <b>Open for collaborations.</b>
-     
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/OpSiDop?cardType=github&theme=dracula&Title=DD2727)](https://git.io/awesome-stats-card)     
 
 
    
