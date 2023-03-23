@@ -1,3 +1,4 @@
+![MasterHead](https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif)
 <h1 align="center">Hi 👋, I'm Sidhartha Raghaw</h1>
 
 
