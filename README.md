@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/sidhartha-raghaw-10151b224/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35px"/>
   </a><span>&nbsp;</span>
-  <a href="https://twitter.com/RaghawSidhartha" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" width="35px"/>
-  </a><span>&nbsp;</span>
   <a href="https://www.instagram.com/int__sid/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35px"/>
   </a><span>&nbsp;</span>
